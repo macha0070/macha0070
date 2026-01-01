@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macha0070&layout=compact)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macha0070&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=macha0070&theme=algolia)
